@@ -5,7 +5,7 @@
     "name": "iPhone 15 Pro",
     "price": 999.99,
     "description": "Latest Apple iPhone with A17 Pro chip, 48MP camera, and titanium design",
-    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692845702708",
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg",
     "specifications": {
       "storage": "256GB",
       "color": "Natural Titanium",
@@ -18,7 +18,7 @@
     "name": "Samsung Galaxy S24 Ultra",
     "price": 1199.99,
     "description": "Premium Android flagship with S Pen and advanced AI features",
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-ultra-s928-sm-s928bzgdeub-537973001",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-1.jpg",
     "specifications": {
       "storage": "512GB",
       "color": "Titanium Black",
@@ -44,7 +44,7 @@
     "name": "Dell XPS 15",
     "price": 1799.99,
     "description": "Premium Windows laptop with InfinityEdge display",
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9520/media-gallery/black/laptop-xps-15-9520-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/images2/products/notebooks/xps-notebooks/xps-15-9520/media-gallery/black/laptop-xps-15-9520-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
     "specifications": {
       "processor": "Intel Core i9",
       "ram": "32GB",
@@ -83,7 +83,7 @@
     "name": "Google Pixel 8 Pro",
     "price": 899.99,
     "description": "Google's flagship with advanced AI camera features",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iZM8644_It5R22wQzD1Z6kP9NkgzV3UVDg5QfXFA3o4oq5wvD-rW6j1g5HwtMiws5E4iStOJ52NAo4e6eJztQ=w1600-rw",
+    "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-pro-1.jpg",
     "specifications": {
       "storage": "256GB",
       "color": "Obsidian",
@@ -122,7 +122,7 @@
     "name": "OnePlus 12",
     "price": 699.99,
     "description": "Flagship killer with Hasselblad camera system",
-    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/12/4/oneplus-12.png",
+    "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-1.jpg",
     "specifications": {
       "storage": "256GB",
       "color": "Silky Black",
@@ -142,7 +142,7 @@
       "storage": "1TB SSD"
     }
   },
-    {
+  {
     "id": 12,
     "category": "mouse",
     "name": "Logitech G Pro X Superlight",
@@ -161,7 +161,7 @@
     "name": "Xiaomi 14 Pro",
     "price": 899.99,
     "description": "Flagship smartphone with Leica camera system",
-    "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi.com_shop/static/img/2024/01/10/1704864000_1.png",
+    "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-14-pro-1.jpg",
     "specifications": {
       "storage": "512GB",
       "color": "Black",
@@ -200,7 +200,7 @@
     "name": "Nothing Phone (2)",
     "price": 599.99,
     "description": "Unique design with Glyph interface and clean Android experience",
-    "image": "https://cdn.shopify.com/s/files/1/0636/9404/5421/files/Nothing-Phone-2-Black.png",
+    "image": "https://fdn2.gsmarena.com/vv/pics/nothing/nothing-phone-2-1.jpg",
     "specifications": {
       "storage": "256GB",
       "color": "Dark Gray",
@@ -239,7 +239,7 @@
     "name": "ASUS ROG Phone 8",
     "price": 999.99,
     "description": "Gaming smartphone with advanced cooling and high refresh rate",
-    "image": "https://dlcdnwebimgs.asus.com/gain/5A4A0D5A-0B3C-4F7C-B4A5-5D5D5D5D5D5D",
+    "image": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-8-1.jpg",
     "specifications": {
       "storage": "512GB",
       "color": "Phantom Black",
